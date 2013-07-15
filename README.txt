@@ -41,11 +41,6 @@ We do not go beyong "References" in the text and also ignore anything between [.
 
 NOTE### We have decided not to include multiple word information in the content summaries.
 
-Bing Search Key:----------------------------------------------------------------------
-
-Rohan 	tfXfeYcUCuEk1sgdW/1vUCRnKx5FTqg9eBwCO05Skvc=
-Digvijay qhoA3ZNi3uIxUpjHcHBedrnxJ9O2LQ1QyzWJ2+Bmddg=
-
 References:---------------------------------------------------------------------------
 
 1. Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze: An Introduction to Information Retrieval, 2009.
